@@ -6,7 +6,7 @@ of two numbers form the user and perform basic math functions. It also has
 an option where you can calculate the area of a Triangle.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KhLeRo2jW60)
 
 # Development Environment
 1. It was build on the Intellij IDE
