@@ -2,7 +2,7 @@ class Area ( var base:Float,  var height:Float,  var area:Float){
 
     fun areaTri(){
 
-        var result = 0.0f
+        var result = 0.10f
 
         if (area == 0.0f){
             result = 0.5f * base * height
